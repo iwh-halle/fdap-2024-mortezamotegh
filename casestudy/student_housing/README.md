@@ -44,7 +44,7 @@ In blue, you can find the price of the shared apartment, and in pink, you see th
 
 ## Repository Structure and Code
 
-Your GitHub repository should be organized as follows:
+ Your GitHub repository should be organized as follows:
 
 ```bash
 apartment_analysis/
