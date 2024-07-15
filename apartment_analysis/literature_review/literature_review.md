@@ -130,7 +130,7 @@ plt.show()
 
 - **Sales Volume (Unites)**: The red line shows changes in sales volume, with a peak in 2021 at 16000 units and another increase in 2023 at 17000 units. Despite slight dips, the overall trend remains positive. This suggests a healthy market with substantial buying activity, consistent with rising prices and implying persistent interest in Berlin real estate.
 
-# 7. Keys to Success for Online Renting and Buying Platforms
+## 7. Keys to Success for Online Renting and Buying Platforms
 
 This chapter conducts a brief literature review of the factors contributing to the success of Work Group listings in professional settings. It examines several themes often associated with successful group collaboration and effectiveness, including group dynamics, leadership styles, communication strategies, goal alignment, and the use of technoloy.
 
